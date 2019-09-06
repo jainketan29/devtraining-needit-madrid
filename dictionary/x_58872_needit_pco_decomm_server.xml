@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="pco_decomm_server" max_length="40" name="x_58872_needit_pco_decomm_server" type="collection">
+        <element label="CRQ_number" max_length="40" name="crq_number" type="string"/>
+        <element label="Dns server" max_length="40" name="dns_server" type="string"/>
+        <element label="Domain name" max_length="100" name="domain_name" type="string"/>
+        <element label="Ip_address" max_length="25" name="ip_address" type="float"/>
+        <element label="Server type" max_length="100" name="server_type" type="string"/>
+    </element>
+</database>
